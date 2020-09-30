@@ -1,4 +1,4 @@
-# PyChrome
+# PyChrome-making life easier..
 
 
 PyChrome is a Web Automation module to create Web Automation application using Selenium with Python. It is integrated with WebDriver using ChromeDriver to access and control Chromium browser. It can also emulate headless browser using PhantomJS (Ghost Driver) to browse unnoticeable. PyChrome is open-source and it is written in Python 2. It’s run via command-line rather than as GUI editor application. Thus, it is more flexible to be modified at user's discretion, and it can be easily imported as a module to any project for creating Web Automation application in Python programming language. The application of using PyChrome (Selenium Python) is tremendous for Web applications. It can be used for Web automation, creating Web bots, data mining, scraping the web, browse unnoticeably using Headless browser, and testing web application.
